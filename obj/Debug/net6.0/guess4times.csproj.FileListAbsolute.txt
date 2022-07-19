@@ -1,0 +1,15 @@
+C:\Users\nitesh\Desktop\C#\guess4times\guess4times\bin\Debug\net6.0\guess4times.exe
+C:\Users\nitesh\Desktop\C#\guess4times\guess4times\bin\Debug\net6.0\guess4times.deps.json
+C:\Users\nitesh\Desktop\C#\guess4times\guess4times\bin\Debug\net6.0\guess4times.runtimeconfig.json
+C:\Users\nitesh\Desktop\C#\guess4times\guess4times\bin\Debug\net6.0\guess4times.dll
+C:\Users\nitesh\Desktop\C#\guess4times\guess4times\bin\Debug\net6.0\guess4times.pdb
+C:\Users\nitesh\Desktop\C#\guess4times\guess4times\obj\Debug\net6.0\guess4times.csproj.AssemblyReference.cache
+C:\Users\nitesh\Desktop\C#\guess4times\guess4times\obj\Debug\net6.0\guess4times.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nitesh\Desktop\C#\guess4times\guess4times\obj\Debug\net6.0\guess4times.AssemblyInfoInputs.cache
+C:\Users\nitesh\Desktop\C#\guess4times\guess4times\obj\Debug\net6.0\guess4times.AssemblyInfo.cs
+C:\Users\nitesh\Desktop\C#\guess4times\guess4times\obj\Debug\net6.0\guess4times.csproj.CoreCompileInputs.cache
+C:\Users\nitesh\Desktop\C#\guess4times\guess4times\obj\Debug\net6.0\guess4times.dll
+C:\Users\nitesh\Desktop\C#\guess4times\guess4times\obj\Debug\net6.0\refint\guess4times.dll
+C:\Users\nitesh\Desktop\C#\guess4times\guess4times\obj\Debug\net6.0\guess4times.pdb
+C:\Users\nitesh\Desktop\C#\guess4times\guess4times\obj\Debug\net6.0\guess4times.genruntimeconfig.cache
+C:\Users\nitesh\Desktop\C#\guess4times\guess4times\obj\Debug\net6.0\ref\guess4times.dll
